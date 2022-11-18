@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "825742898890",
+    "project_id": "louisestudearrings",
+    "storage_bucket": "louisestudearrings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825742898890:android:a158e80d520a954d806633",
+        "android_client_info": {
+          "package_name": "com.example.it_elective2_seprado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825742898890-m153r4vcarlnufnj1l0efkpoaernh5kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV5Z5WlglnOBuYiqq9O-Kq9Gz3EOx4Vfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825742898890-m153r4vcarlnufnj1l0efkpoaernh5kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825742898890:android:e76ae054bc8f36c1806633",
+        "android_client_info": {
+          "package_name": "com.example.itelective2_seprado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825742898890-m153r4vcarlnufnj1l0efkpoaernh5kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV5Z5WlglnOBuYiqq9O-Kq9Gz3EOx4Vfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825742898890-m153r4vcarlnufnj1l0efkpoaernh5kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

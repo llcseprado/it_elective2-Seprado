@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">it_elective2-Seprado</string>
+    <string name="email">Email</string>
+    <string name="pw">Password</string>
+    <string name="dis_name">Display Name</string>
+    <string name="store">STUDS</string>
+</resources>
